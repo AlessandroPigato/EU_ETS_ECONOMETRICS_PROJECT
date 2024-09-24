@@ -1,0 +1,4 @@
+- In the PDF there's the complete report with discussion about the results, plots and tables
+- The R file contains the whole commented code 
+- The main dataset is transaction.csv
+- The other excel files contains data about some auxiliary variables included in the analysis: Brent Oil, Coal, EU-ETS Futures, VIX
